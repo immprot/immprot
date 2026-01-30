@@ -11,7 +11,7 @@ Repositories, data, and tools will appear here soon.
 
 The [**Felix Meissner Laboratory**](https://www.iiibonn.de/felix-meissner-lab/felix-meissner-lab-science) studies immune regulation at the molecular and cellular level using quantitative mass-spectrometry–based proteomics and systems immunology. 
 
-**The goal:** resolve immune signaling networks, inflammatory control mechanisms, and intercellular communication with protein-level precision.
+**The goals:** resolve immune signaling networks, inflammatory control mechanisms, and intercellular communication with protein-level precision.
 
 
 ## Key Research Themes
@@ -39,4 +39,4 @@ The [**Felix Meissner Laboratory**](https://www.iiibonn.de/felix-meissner-lab/fe
 
 ### ImmProt
 
-- [ImmProt.org](https://immprot.org/) hosts a collection of **online analysis and visualization tools** developed in the context of our published proteomics studies.  
+> [ImmProt.org](https://immprot.org/) hosts a collection of **online analysis and visualization tools** developed in the context of our published proteomics studies.  
