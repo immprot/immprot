@@ -1,4 +1,4 @@
-# Felix Meissner Lab  
+# Meissner Lab  
 ![Focus](https://img.shields.io/badge/focus-immunology%20%7C%20proteomics-blue) ![Methods](https://img.shields.io/badge/methods-mass%20spectrometry-informational) 
 
 **Systems Immunology · Proteomics · Immune Signaling**
